@@ -1,0 +1,23 @@
+// components.scss
+.emojione {
+    width: unset;
+}
+
+.detailed-status .status__content .emojione {
+    width: unset;
+}
+
+// variables.scss
+.reply-indicator__content .emojione, .status__content .emojione {
+    width: unset;
+}
+
+// admin.scss
+.batch-table__row__content__image .emojione {
+    width: unset;
+}
+
+// Other
+.emoji-mart-emoji img {
+    width: unset !important;
+}
